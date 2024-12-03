@@ -41,7 +41,7 @@ To run this application, you need:
   - `book.h`: Header file for the Book class.
   - `rental.h`: Header file for the Rental class.
 
-- `data/` - Contains data files:
+- `./` - Contains data files:
   - `book.txt`: Text file that stores the list of books (ID, Title, Author, Quantity).
   - `rental.txt`: Text file that stores rental transactions (Rental ID, Book ID, Renter Name).
 
