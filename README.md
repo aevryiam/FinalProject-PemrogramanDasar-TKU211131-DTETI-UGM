@@ -63,4 +63,4 @@ Feel free to fork this repository, submit issues, and send pull requests. Contri
 
 ## Licence
 
-This project is licensed under the GPL - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU - see the [LICENSE](LICENSE) file for details.
